@@ -1,4 +1,4 @@
-# ClassificadorDeN-velDeHer-i
+# Classificador De Nível de Herói
 Desafio Felipão DIO
 // Oque deve ser utilizado:
 //variáveis, operadores, laços de repetição e estruturas de decisão
